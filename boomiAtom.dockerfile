@@ -1,1 +1,1 @@
-FROM boomi/atom
+FROM boomi/atom:release
