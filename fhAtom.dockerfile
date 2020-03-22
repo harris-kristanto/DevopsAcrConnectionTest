@@ -1,0 +1,1 @@
+FROM harriskristanto/devopsconnectiontest:release
