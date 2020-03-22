@@ -1,2 +1,2 @@
 FROM boomi/atom:release
-ENV DOCKERTEST 1
+ENV DOCKERTEST 2
